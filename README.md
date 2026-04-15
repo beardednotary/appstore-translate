@@ -1,10 +1,10 @@
 # appstore-translate
-A no-frills Python script that translates your App Store listing into all 37 supported locales and exports a single CSV — ready to copy-paste into App Store Connect.
+A no-frills Python script that translates your App Store listing into 37 supported locales and exports a single CSV — ready to copy-paste into App Store Connect.
 
 No API key. No paid service. Just paste your English text and go.
 
 ## What It Does
-Prompts you for each App Store field, translates into all 37 locales using Google Translate, and saves a app_store_translations.csv you can open in Excel or Google Sheets.
+Prompts you for each App Store field, translates into 37 locales using Google Translate, and saves an app_store_translations.csv you can open in Excel or Google Sheets.
 
 **Fields covered:**
 
