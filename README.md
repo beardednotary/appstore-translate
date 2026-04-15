@@ -34,7 +34,7 @@ A single app_store_translations.csv with columns:
 
 ## Notes
 
-**English variants (AU, CA, UK)** copy your source text as-is. Review manually for spelling and phrasing differences.
+For **English variants (AU, CA, UK)**, copy your source text as-is. Review manually for spelling and phrasing differences.
 **French (Canada)** and **Spanish (Mexico)** use the same base translation as French and Spanish (Spain). Flag these for manual review if regional differences matter.
 The script warns you in the terminal if any translated field exceeds the App Store character limit.
 Uses the free googletrans wrapper — no API key required. A small delay between requests keeps it from getting rate-limited.
